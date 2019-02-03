@@ -1,0 +1,13 @@
+/* blank */
+/***********************************************/
+.blank {
+  $self: &;
+
+  &__box1 {
+    @include container;
+  }
+
+  &__box2 {
+    @include container-fluid;
+  }
+}

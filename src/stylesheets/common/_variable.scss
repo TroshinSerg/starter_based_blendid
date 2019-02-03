@@ -1,0 +1,107 @@
+// Grid silent bootstrap
+///***********************************************/
+
+// media steps
+$media_steps: (
+  default: 'default',
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
+
+// container max width
+$container_max_widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1080px,
+  xxl: 1190px
+);
+
+// fonts
+$font_body: 'Roboto', Helvetica, Arial, sans-serif;
+$font_title: 'Roboto Condensed', Helvetica, Arial, sans-serif;
+
+// typography works in .g-typography
+$line_height_ratio: 1.618;
+$heading_ratio: 1.618;
+$heading_font: $font_title;
+$heading_font_weight: 700;
+$min_font: 14px;
+$max_font: 16px;
+$min_width: 576px;
+$max_width: 1200px;
+$vertical_rhythm: true;
+
+///* colors */
+///***********************************************/
+$color_white: #fff;
+$color_main: #d08005;
+$color_black: #141414;
+$color_dark: #4e4444;
+$color_gray: #8b8b8b;
+$color_light_gray: #b2b2b2;
+$color_error: #e24147;
+
+///*  ui border colors */
+///***********************************************/
+$color_border_default: #e0e0e0;
+$color_border_hover: #bbb;
+$color_border_focus: #6747cd;
+$color_border_error: #e24147;
+
+
+// Variables
+//
+// Styleguide 2
+
+// Colors
+//
+// Markup: <div class="styleguide-varable-color {{modifier_class}}">${{modifier_class}}</div>
+//
+// .color_white - $color_white
+// .color_main - $color_main
+// .color_black - $color_black
+// .color_dark - $color_dark
+// .color_gray - $color_gray
+// .color_light_gray - $color_light_gray
+// .color_error - $color_error
+//
+// Styleguide 2.1
+
+.styleguide-varable-color {
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  color: #fff;
+  border: 4px solid #ccc;
+  border-radius: 7px;
+  text-shadow: 1px 1px 3px #000;
+  font-family: Tahoma, sans-serif;
+  font-weight: bold;
+  line-height: 92px;
+
+  &.color_white {
+    background-color: $color_white;
+  }
+  &.color_main {
+    background-color: $color_main;
+  }
+  &.color_black {
+    background-color: $color_black;
+  }
+  &.color_dark {
+    background-color: $color_dark;
+  }
+  &.color_gray {
+    background-color: $color_gray;
+  }
+  &.color_light_gray {
+    background-color: $color_light_gray;
+  }
+  &.color_error {
+    background-color: $color_error;
+  }
+}
