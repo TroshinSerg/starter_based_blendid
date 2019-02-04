@@ -21,8 +21,8 @@ $container_max_widths: (
 );
 
 // fonts
-$font_body: 'Roboto', Helvetica, Arial, sans-serif;
-$font_title: 'Roboto Condensed', Helvetica, Arial, sans-serif;
+$font_body: 'Proxima Nova', Helvetica, Arial, sans-serif;
+$font_title: 'Proxima Nova', Helvetica, Arial, sans-serif;
 
 // typography works in .g-typography
 $line_height_ratio: 1.618;
@@ -44,6 +44,12 @@ $color_dark: #4e4444;
 $color_gray: #8b8b8b;
 $color_light_gray: #b2b2b2;
 $color_error: #e24147;
+
+$color_pink: #ee5495;
+$color_green: #79b790;
+$color_blue: #9baed9;
+$color_yellow: #e3a624;
+$color_darken: #292e34;
 
 ///*  ui border colors */
 ///***********************************************/

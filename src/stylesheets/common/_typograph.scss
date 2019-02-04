@@ -14,10 +14,19 @@
 }
 
 //
-//@font-face {
-//  font-family: 'Bebas Neue';
-//  src: url('../fonts/BebasNeueBold.woff2') format('woff2'),
-//  url('../fonts/BebasNeueBold.woff') format('woff');
-//  font-weight: 700;
-//  font-style: normal;
-//}
+
+@font-face {
+  font-family: "Proxima Nova";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: local("Proxima Nova Regular"), local("Proxima-Nova-Regular"), url("../fonts/proximanova-regular.woff2") format("woff2"), url("../fonts/proximanova-regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: local("Proxima Nova Bold"), local("Proxima-Nova-Bold"), url("../fonts/proximanova-bold.woff2") format("woff2"), url("../fonts/proximanova-bold.woff") format("woff");
+}

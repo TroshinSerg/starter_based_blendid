@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89" height="89" viewBox="0 0 89 89">
+	<defs>
+		<path id="imi8a" d="M173.052 67.439a3.73 3.73 0 1 0-7.458 0 3.73 3.73 0 0 0 7.458 0z"/>
+		<path id="imi8b" d="M173.052 96.028a3.73 3.73 0 1 0-7.46 0 3.73 3.73 0 0 0 7.46 0z"/>
+		<path id="imi8c" d="M201.64 96.028a3.73 3.73 0 1 0-7.459 0 3.73 3.73 0 0 0 7.46 0z"/>
+		<path id="imi8d" d="M201.64 67.439a3.729 3.729 0 1 0-7.457 0 3.729 3.729 0 0 0 7.458 0z"/>
+		<path id="imi8e" d="M175.547 73.664l16.14 16.14"/>
+		<path id="imi8f" d="M187.114 78.236l4.573-4.573"/>
+		<path id="imi8g" d="M175.547 89.803l4.333-4.333"/>
+		<path id="imi8h" d="M183.793 38.289c23.75 0 43 19.25 43 43 0 23.748-19.25 43-43 43-23.748 0-43-19.252-43-43 0-23.75 19.252-43 43-43z"/>
+	</defs>
+		<g>
+			<g transform="translate(-139 -37)">
+				<use fill-opacity="0" stroke-miterlimit="50" stroke-width="2.5" xlink:href="#imi8a"/>
+			</g>
+				<g transform="translate(-139 -37)">
+					<use fill-opacity="0" stroke-miterlimit="50" stroke-width="2.5" xlink:href="#imi8b"/></g>
+					<g transform="translate(-139 -37)">
+						<use fill-opacity="0" stroke-miterlimit="50" stroke-width="2.5" xlink:href="#imi8c"/>
+					</g>
+					<g transform="translate(-139 -37)">
+						<use fill-opacity="0" stroke-miterlimit="50" stroke-width="2.5" xlink:href="#imi8d"/>
+					</g>
+					<g transform="translate(-139 -37)">
+						<use fill-opacity="0" stroke-miterlimit="50" stroke-width="2.5" xlink:href="#imi8e"/>
+					</g>
+					<g transform="translate(-139 -37)">
+						<use fill-opacity="0" stroke-miterlimit="50" stroke-width="2.5" xlink:href="#imi8f"/>
+					</g>
+					<g transform="translate(-139 -37)">
+						<use fill-opacity="0" stroke-miterlimit="50" stroke-width="2.5" xlink:href="#imi8g"/>
+					</g>
+					<g transform="translate(-139 -37)">
+						<use fill-opacity="0" stroke-miterlimit="50" stroke-width="2.5" xlink:href="#imi8h"/>
+					</g>
+				</g>
+</svg>
